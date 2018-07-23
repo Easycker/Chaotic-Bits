@@ -3,11 +3,11 @@
   <title>SwordFish-II</title>
   
   <subtitle>You are what you program.</subtitle>
-  <link href="/SwordFish-II/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://easycker.github.io/SwordFish-II/"/>
+  <link href="https://alan.is-programmer.tk/"/>
   <updated>2018-07-23T03:13:18.900Z</updated>
-  <id>https://easycker.github.io/SwordFish-II/</id>
+  <id>https://alan.is-programmer.tk/</id>
   
   <author>
     <name>Alan Wang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://easycker.github.io/SwordFish-II/2018/07/23/hello-world/"/>
-    <id>https://easycker.github.io/SwordFish-II/2018/07/23/hello-world/</id>
+    <link href="https://alan.is-programmer.tk/2018/07/23/hello-world/"/>
+    <id>https://alan.is-programmer.tk/2018/07/23/hello-world/</id>
     <published>2018-07-23T03:13:18.900Z</published>
     <updated>2018-07-23T03:13:18.900Z</updated>
     

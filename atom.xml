@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>混乱的比特</title>
+  <title>混亂的比特</title>
   
   <subtitle>The Chaotic Bits</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/Chaotic-Bits/atom.xml" rel="self"/>
   
   <link href="https://easycker.github.io/Chaotic-Bits/"/>
   <updated>2018-07-23T03:13:18.900Z</updated>

@@ -3,11 +3,11 @@
   <title>混亂的比特</title>
   
   <subtitle>The Chaotic Bits</subtitle>
-  <link href="/Chaotic-Bits/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://easycker.github.io/Chaotic-Bits/"/>
+  <link href="http://blog.chaotic-bits.eu.org/"/>
   <updated>2018-07-23T03:13:18.900Z</updated>
-  <id>https://easycker.github.io/Chaotic-Bits/</id>
+  <id>http://blog.chaotic-bits.eu.org/</id>
   
   <author>
     <name>Alan Wang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://easycker.github.io/Chaotic-Bits/2018/07/23/hello-world/"/>
-    <id>https://easycker.github.io/Chaotic-Bits/2018/07/23/hello-world/</id>
+    <link href="http://blog.chaotic-bits.eu.org/2018/07/23/hello-world/"/>
+    <id>http://blog.chaotic-bits.eu.org/2018/07/23/hello-world/</id>
     <published>2018-07-23T03:13:18.900Z</published>
     <updated>2018-07-23T03:13:18.900Z</updated>
     
